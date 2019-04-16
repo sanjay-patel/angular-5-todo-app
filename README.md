@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
+## Blog
+Please check more detail on our blog <a target="_blank" href="http://www.teclogiq.com/blog/angular-5-todo-application/">angular-5-todo-application</a>
+
 ##Install NodeJS dependancy using `npm install`
 
 ## Development server
